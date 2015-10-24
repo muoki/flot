@@ -1,0 +1,1 @@
+Unfortunately, the Google Code wiki doesn't yet allow anonymous edits, so for the time being just post a comment with a link if you've made an adapter for making it easier to use Flot within another web framework.
